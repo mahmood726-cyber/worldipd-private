@@ -1,0 +1,8 @@
+Package: WorldIPDprivate
+Type: Package
+Title: Private Individual Participant Data (IPD) Hub
+Version: 0.1.0
+Authors@R: person("Mahmood","Ahmad", email="mahmood.ahmad2@nhs.net", role=c("aut","cre"))
+Description: Private IPD repository (non-redistributable datasets). Same schema/API as WorldIPD; data stored privately.
+License: file LICENSE
+Encoding: UTF-8
