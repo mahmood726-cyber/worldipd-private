@@ -3,7 +3,7 @@
   "slug": "worldipd-private-scaffold",
   "author": "Mahmood Ahmad",
   "date": "2026-03-26",
-  "path": "C:\\Projects\\WorldIPD-private",
+  "path": "",
   "type": "methods",
   "primary_estimand": "Schema compliance rate",
   "summary": "WorldIPD-private extends the WorldIPD framework to manage non-redistributable IPD datasets with private access controls and identical schema validation.",
