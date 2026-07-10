@@ -3,7 +3,7 @@
         **Author:** Mahmood Ahmad, Royal Free Hospital, London, UK
         **ORCID:** 0009-0003-7781-4478
         **Registration Date:** 2026-03-28
-        **Repository:** https://github.com/mahmood789/-WorldIPD-private.git
+        **Repository:** https://github.com/mahmood726-cyber/worldipd-private.git
 
         ## Objective
 
@@ -15,8 +15,8 @@
 
         ## Availability
 
-        - Code: https://github.com/mahmood789/-WorldIPD-private.git
-        - Dashboard: https://mahmood789.github.io/-WorldIPD-private/
+        - Code: https://github.com/mahmood726-cyber/worldipd-private.git
+        - Dashboard: https://mahmood726-cyber.github.io/worldipd-private/
 
         ---
 

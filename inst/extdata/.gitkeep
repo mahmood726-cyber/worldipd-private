@@ -1,0 +1,2 @@
+# Private IPD datasets live here as inst/extdata/<id>.csv (see README.md).
+# Directory intentionally tracked empty; datasets are non-redistributable and never committed.

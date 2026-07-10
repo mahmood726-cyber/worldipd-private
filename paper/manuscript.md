@@ -10,7 +10,7 @@ Type: methods
 Primary estimand: Schema compliance rate
 App: WorldIPD-private v0.1.0
 Data: Non-redistributable IPD datasets (private access only)
-Code: https://github.com/mahmood789/-WorldIPD-private
+Code: https://github.com/mahmood726-cyber/worldipd-private
 
 ## E156 Capsule
 

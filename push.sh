@@ -37,10 +37,11 @@ else
   echo "No publication-managed changes to commit."
 fi
 
-"$GIT_BIN" push origin master 2>/dev/null || "$GIT_BIN" push origin main 2>/dev/null
+BRANCH="$("$GIT_BIN" rev-parse --abbrev-ref HEAD)"
+"$GIT_BIN" push origin "$BRANCH"
 
 echo ""
 echo "Pushed to GitHub. View at:"
-echo "  https://github.com/mahmood726-cyber/worldipd-private-scaffold"
-echo "  https://mahmood726-cyber.github.io/worldipd-private-scaffold/"
-echo "  https://mahmood726-cyber.github.io/worldipd-private-scaffold/e156-submission/"
+echo "  https://github.com/mahmood726-cyber/worldipd-private"
+echo "  https://mahmood726-cyber.github.io/worldipd-private/"
+echo "  https://mahmood726-cyber.github.io/worldipd-private/e156-submission/"
